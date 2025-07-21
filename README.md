@@ -7,6 +7,8 @@ Python provides a robust system for internal documentation. Modules, classes and
 
 Having completed that, we thought it would be useful to generalise the script for use with any module available in the local environment.
 
+HOWEVER, we will begin by simply archiving the original script targeting NumPy.
+
 ### Problem
 
 THere are times when we have access to a Python environment at the same time that we do not have access to the internet. Therefore, it is important to be able to understand the Python modules that are already installed on our system / in the current environment, without recourse to documentation that is to be found on the internet.
